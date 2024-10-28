@@ -78,7 +78,7 @@ hi Constant guifg=#ba2121 guibg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#0000ff guibg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#008000 guibg=NONE gui=bold cterm=bold
 hi PreProc guifg=#a020f0 guibg=NONE gui=NONE cterm=NONE
-hi Type guifg=#0000ff guibg=NONE gui=NONE cterm=NONE
+hi Type guifg=#0000ff guibg=NONE gui=bold cterm=bold
 hi Special guifg=#008000 guibg=NONE gui=bold cterm=bold
 hi Tag guifg=#006400 guibg=NONE gui=NONE cterm=NONE
 hi Directory guifg=#0000ff guibg=NONE gui=bold cterm=bold
