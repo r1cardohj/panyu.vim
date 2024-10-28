@@ -1,1 +1,1 @@
-Light background colorscheme inspired zellner and django-site color.
+Light background colorscheme inspired by zellner and django-site color.
