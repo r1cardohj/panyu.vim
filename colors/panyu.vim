@@ -1,5 +1,5 @@
 " Name:         panyu
-" Description:  Light background colorscheme inspired zellner and django-site color.
+" Description:  Light background colorscheme inspired by zellner and django-site color.
 " Author:       r1carodhj
 " License:      MIT
 " Last Change:  2024 Oct 28 
@@ -113,7 +113,7 @@ if s:t_Co >= 256
   hi StatusLineTermNC ctermfg=231 ctermbg=21 cterm=NONE
   hi VertSplit ctermfg=231 ctermbg=16 cterm=NONE
   hi Pmenu ctermfg=16 ctermbg=253 cterm=NONE
-  hi PmenuSel ctermfg=16 ctermbg=226 cterm=NONE
+  hi PmenuSel ctermfg=16 ctermbg=82 cterm=NONE
   hi PmenuSbar ctermfg=NONE ctermbg=231 cterm=NONE
   hi PmenuThumb ctermfg=NONE ctermbg=248 cterm=NONE
   hi PmenuMatch ctermfg=124 ctermbg=253 cterm=NONE
@@ -149,13 +149,13 @@ if s:t_Co >= 256
   hi SpellCap ctermfg=21 ctermbg=NONE cterm=underline
   hi SpellLocal ctermfg=100 ctermbg=NONE cterm=underline
   hi SpellRare ctermfg=30 ctermbg=NONE cterm=underline
-  hi Comment ctermfg=196 ctermbg=NONE cterm=NONE
-  hi Constant ctermfg=201 ctermbg=NONE cterm=NONE
+  hi Comment ctermfg=65 ctermbg=NONE cterm=NONE
+  hi Constant ctermfg=167 ctermbg=NONE cterm=NONE
   hi Identifier ctermfg=21 ctermbg=NONE cterm=NONE
-  hi Statement ctermfg=124 ctermbg=NONE cterm=NONE
+  hi Statement ctermfg=2 ctermbg=NONE cterm=NONE
   hi PreProc ctermfg=129 ctermbg=NONE cterm=NONE
   hi Type ctermfg=21 ctermbg=NONE cterm=NONE
-  hi Special ctermfg=201 ctermbg=NONE cterm=NONE
+  hi Special ctermfg=2 ctermbg=NONE cterm=NONE
   hi Tag ctermfg=22 ctermbg=NONE cterm=NONE
   hi Directory ctermfg=21 ctermbg=NONE cterm=bold
   hi Conceal ctermfg=248 ctermbg=NONE cterm=NONE
